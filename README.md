@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm İnwesT</h1>
 <h3 align="center">A passionate frontend developer Turkey</h3>
 
-- 🔭 Şu anda çalışıyorum **Track Back** 
+- 🔭 Şu anda **Track Back** üzerinde çalışıyorum
 
-- 🌱 Şuanda öğreniyorum **Malware**
+- 🌱 Şuanda **Malware** öğreniyorum
 
-- 💬 Soru Sor **Windows ve discord botların hakkında**
+- 💬 Soru Sor **Windows ve Discord botların** hakkında
 
-- 📫 Contact **inwestinfo@gmail.com**
+- 📫 Contact **inwestinfo@gmail.com** 
 
-- ⚡ Fun fact **Trolüm ve Resitalim amk**
+- ⚡ Uğraşlarım **Trolüm ve Resitalim amk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
