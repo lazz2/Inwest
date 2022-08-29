@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İnwesT</h1>
-<h3 align="center">A passionate frontend developer Turkey</h3>
+<h3 align="center">Hard ve tutukulu developer Turkey</h3>
 
 - 🔭 Şu anda **Track Back** üzerinde çalışıyorum
 
