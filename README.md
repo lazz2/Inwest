@@ -1,5 +1,5 @@
 
-<img src="https://cdn1.vectorstock.com/i/1000x1000/77/05/bearded-coder-hacker-vector-17477705.jpg" width="auto">
+<img src="https://c.tenor.com/H2kSVw4FMXYAAAAd/gangsta-guns.gif" width="auto">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=lazz2&show_icons=true&theme=radical)
 
