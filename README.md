@@ -11,7 +11,7 @@
 
 - ⚡ Uğraşlarım **Trolüm ve Resitalim amk**
 
-- 💙 Konum ||Discord.gg/rebelhood||
+- 💙 Konum **Discord.gg/rebelhood**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
