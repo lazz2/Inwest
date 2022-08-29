@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width="400" src="[https://www.deviantart.com/olivieraccart/art/chaos-and-its-serene-reflection-924151603](https://cdn.discordapp.com/attachments/748509258362126377/1009735768354345010/image1.gif)](https://c.tenor.com/H2kSVw4FMXYAAAAd/gangsta-guns.gif)">
+<img src="https://cdn1.vectorstock.com/i/1000x1000/77/05/bearded-coder-hacker-vector-17477705.jpg" width="auto">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=lazz2&show_icons=true&theme=radical)
 
