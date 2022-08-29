@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Malware**
 
-- 💬 Soru Sor **Windows, Discord Bot's**
+- 💬 Soru Sor **About your windows and discord bots**
 
 - 📫 Contact **inwestinfo@gmail.com**
 
-- ⚡ Fun fact **I m Funny**
+- ⚡ Fun fact **Trolüm ve Resitalim amk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
