@@ -13,6 +13,8 @@
 
 - 💙 Konum **https://discord.gg/rebelhood**
 
+<img src="https://camo.githubusercontent.com/ed80a2e0908e97b89faba4e27f5ee88e4327f7f1afaf0065e894234c618b780d/68747470733a2f2f677076632e6172747572696f2e6465762f426f72616e476b646e" alt="Profile views" data-canonical-src="https://gpvc.arturio.dev/lazz2" style="max-width: 100%;">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/inwestt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="inwestt" height="30" width="40" /></a>
