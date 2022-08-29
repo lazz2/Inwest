@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Malware**
 
-- 💬 Ask me about **Android , Mearn**
+- 💬 Soru Sor **Windows, Discord Bot's**
+
+- 📫 Contact **inwestinfo@gmail.com**
 
 - ⚡ Fun fact **I m Funny**
 
