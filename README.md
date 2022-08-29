@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm İnwesT</h1>
 <h3 align="center">A passionate frontend developer Turkey</h3>
-https://cdn.discordapp.com/attachments/826480066543353926/1013787893627637810/photo-1518933165971-611dbc9c412d.jpg
 
 - 🔭 I’m currently working on **Track Back**
 
