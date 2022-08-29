@@ -5,7 +5,7 @@
 
 - 🌱 Şuanda öğreniyorum **Malware**
 
-- 💬 Soru Sor **windows ve discord botların hakkında **
+- 💬 Soru Sor **Windows ve discord botların hakkında**
 
 - 📫 Contact **inwestinfo@gmail.com**
 
