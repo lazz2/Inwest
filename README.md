@@ -1,5 +1,5 @@
 
-<img src="https://c.tenor.com/H2kSVw4FMXYAAAAd/gangsta-guns.gif" width="400">
+<img src="https://c.tenor.com/H2kSVw4FMXYAAAAd/gangsta-guns.gif" width="300">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=lazz2&show_icons=true&theme=radical)
 
