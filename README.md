@@ -1,5 +1,5 @@
 
-<img src="https://c.tenor.com/H2kSVw4FMXYAAAAd/gangsta-guns.gif" width="300">  <img src="https://store.donanimhaber.com/ab/71/71/ab717196adea4a190063c3c7a250ef64.jpg" width="300">
+<img src="https://c.tenor.com/H2kSVw4FMXYAAAAd/gangsta-guns.gif" width="300">  <img src="https://store.donanimhaber.com/ab/71/71/ab717196adea4a190063c3c7a250ef64.jpg" width="500">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=lazz2&show_icons=true&theme=radical)
 
