@@ -1,5 +1,5 @@
 
-	<img src="[gorsel-link](https://github.com/lazz2/Inwest/blob/main/2.gif?raw=true)" width="auto">
+	<img src="[gorsel-link]([https://github.com/lazz2/Inwest/blob/main/2.gif?raw=true](https://cdn.discordapp.com/attachments/748509258362126377/1009735768354345010/image1.gif))" width="auto">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=lazz2&show_icons=true&theme=radical)
 
