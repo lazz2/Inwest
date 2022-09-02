@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/inwestt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="inwestt" height="30" width="40" /></a>
+<a href="https://dev.to/lazz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="inwestt" height="30" width="40" /></a>
 <a href="https://twitter.com/inwestamaalfaolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inwestamaalfaolan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/-i̇nwest v∞" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="-i̇nwest v∞" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/rebelhood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/rebelhood" height="30" width="40" /></a>
